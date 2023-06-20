@@ -1,7 +1,7 @@
-<a href="https://github.com/jackradian">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackradian&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/jackradian">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackradian" />
 </a>
 
