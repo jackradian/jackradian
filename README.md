@@ -1,4 +1,9 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackradian)
+<a href="https://github.com/jackradian">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackradian&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/jackradian">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackradian" />
+</a>
 
 <!--
 **jackradian/jackradian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
