@@ -1,25 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="256" viewBox="0 0 760 256">
 <style>text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8b949e}</style>
 <text x="20" y="28" font-size="16" font-weight="600">Most Used Languages</text>
-<path d="M120,135 L120.00,45.00 A90,90 0 0 1 203.54,168.49 Z" fill="#4F5D95" stroke="#ffffff" stroke-width="1"/>
+<path d="M120,140.0 L120.00,50.00 A90,90 0 0 1 203.55,173.45 Z" fill="#4F5D95" stroke="#ffffff" stroke-width="0.5"/>
 <rect x="250" y="59" width="12" height="12" rx="2" fill="#4F5D95"/>
 <text x="270" y="70" font-size="13">PHP 31.1%</text>
-<path d="M120,135 L203.54,168.49 A90,90 0 0 1 145.63,221.27 Z" fill="#3cb44b" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="83" width="12" height="12" rx="2" fill="#3cb44b"/>
-<text x="270" y="94" font-size="13">Blade 14.3%</text>
-<path d="M120,135 L145.63,221.27 A90,90 0 0 1 70.93,210.44 Z" fill="#f1e05a" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="107" width="12" height="12" rx="2" fill="#f1e05a"/>
-<text x="270" y="118" font-size="13">JavaScript 13.8%</text>
-<path d="M120,135 L70.93,210.44 A90,90 0 0 1 31.12,149.16 Z" fill="#178600" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="131" width="12" height="12" rx="2" fill="#178600"/>
-<text x="270" y="142" font-size="13">C# 13.3%</text>
-<path d="M120,135 L31.12,149.16 A90,90 0 0 1 40.89,92.09 Z" fill="#563d7c" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="155" width="12" height="12" rx="2" fill="#563d7c"/>
-<text x="270" y="166" font-size="13">CSS 10.4%</text>
-<path d="M120,135 L40.89,92.09 A90,90 0 0 1 66.69,62.49 Z" fill="#e34c26" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="179" width="12" height="12" rx="2" fill="#e34c26"/>
-<text x="270" y="190" font-size="13">HTML 7.0%</text>
-<path d="M120,135 L66.69,62.49 A90,90 0 0 1 120.00,45.00 Z" fill="#8b949e" stroke="#ffffff" stroke-width="1"/>
-<rect x="250" y="203" width="12" height="12" rx="2" fill="#8b949e"/>
-<text x="270" y="214" font-size="13">Other 10.1%</text>
+<path d="M120,140.0 L203.55,173.45 A90,90 0 0 1 145.68,226.26 Z" fill="#f7523f" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="81" width="12" height="12" rx="2" fill="#f7523f"/>
+<text x="270" y="92" font-size="13">Blade 14.3%</text>
+<path d="M120,140.0 L145.68,226.26 A90,90 0 0 1 70.99,215.48 Z" fill="#f1e05a" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="103" width="12" height="12" rx="2" fill="#f1e05a"/>
+<text x="270" y="114" font-size="13">JavaScript 13.8%</text>
+<path d="M120,140.0 L70.99,215.48 A90,90 0 0 1 31.14,154.25 Z" fill="#178600" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="125" width="12" height="12" rx="2" fill="#178600"/>
+<text x="270" y="136" font-size="13">C# 13.3%</text>
+<path d="M120,140.0 L31.14,154.25 A90,90 0 0 1 40.84,97.18 Z" fill="#563d7c" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="147" width="12" height="12" rx="2" fill="#563d7c"/>
+<text x="270" y="158" font-size="13">CSS 10.4%</text>
+<path d="M120,140.0 L40.84,97.18 A90,90 0 0 1 66.60,67.55 Z" fill="#e34c26" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="169" width="12" height="12" rx="2" fill="#e34c26"/>
+<text x="270" y="180" font-size="13">HTML 7.0%</text>
+<path d="M120,140.0 L66.60,67.55 A90,90 0 0 1 85.64,56.82 Z" fill="#3178c6" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="191" width="12" height="12" rx="2" fill="#3178c6"/>
+<text x="270" y="202" font-size="13">TypeScript 3.9%</text>
+<path d="M120,140.0 L85.64,56.82 A90,90 0 0 1 98.50,52.61 Z" fill="#d64175" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="250" y="213" width="12" height="12" rx="2" fill="#d64175"/>
+<text x="270" y="224" font-size="13">ShaderLab 2.4%</text>
+<path d="M120,140.0 L98.50,52.61 A90,90 0 0 1 106.25,51.06 Z" fill="#701516" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="59" width="12" height="12" rx="2" fill="#701516"/>
+<text x="440" y="70" font-size="13">Ruby 1.4%</text>
+<path d="M120,140.0 L106.25,51.06 A90,90 0 0 1 109.74,50.59 Z" fill="#c6538c" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="81" width="12" height="12" rx="2" fill="#c6538c"/>
+<text x="440" y="92" font-size="13">SCSS 0.6%</text>
+<path d="M120,140.0 L109.74,50.59 A90,90 0 0 1 112.91,50.28 Z" fill="#ff3e00" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="103" width="12" height="12" rx="2" fill="#ff3e00"/>
+<text x="440" y="114" font-size="13">Svelte 0.6%</text>
+<path d="M120,140.0 L112.91,50.28 A90,90 0 0 1 115.90,50.09 Z" fill="#dea584" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="125" width="12" height="12" rx="2" fill="#dea584"/>
+<text x="440" y="136" font-size="13">Rust 0.5%</text>
+<path d="M120,140.0 L115.90,50.09 A90,90 0 0 1 117.93,50.02 Z" fill="#cfd641" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="147" width="12" height="12" rx="2" fill="#cfd641"/>
+<text x="440" y="158" font-size="13">HLSL 0.4%</text>
+<path d="M120,140.0 L117.93,50.02 A90,90 0 0 1 118.62,50.01 Z" fill="#3572A5" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="169" width="12" height="12" rx="2" fill="#3572A5"/>
+<text x="440" y="180" font-size="13">Python 0.1%</text>
+<path d="M120,140.0 L118.62,50.01 A90,90 0 0 1 119.00,50.01 Z" fill="#6bd641" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="191" width="12" height="12" rx="2" fill="#6bd641"/>
+<text x="440" y="202" font-size="13">Dockerfile &lt;0.1%</text>
+<path d="M120,140.0 L119.00,50.01 A90,90 0 0 1 119.28,50.00 Z" fill="#89e051" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="420" y="213" width="12" height="12" rx="2" fill="#89e051"/>
+<text x="440" y="224" font-size="13">Shell &lt;0.1%</text>
+<path d="M120,140.0 L119.28,50.00 A90,90 0 0 1 119.56,50.00 Z" fill="#d64178" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="590" y="59" width="12" height="12" rx="2" fill="#d64178"/>
+<text x="610" y="70" font-size="13">Objective-C++ &lt;0.1%</text>
+<path d="M120,140.0 L119.56,50.00 A90,90 0 0 1 119.82,50.00 Z" fill="#b07219" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="590" y="81" width="12" height="12" rx="2" fill="#b07219"/>
+<text x="610" y="92" font-size="13">Java &lt;0.1%</text>
+<path d="M120,140.0 L119.82,50.00 A90,90 0 0 1 120.00,50.00 Z" fill="#d6d441" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="590" y="103" width="12" height="12" rx="2" fill="#d6d441"/>
+<text x="610" y="114" font-size="13">Hack &lt;0.1%</text>
 </svg>
