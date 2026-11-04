@@ -1,8 +1,8 @@
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackradian&count_private=true&show_icons=true&rank_icon=github&hide=contribs" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=jackradian&count_private=true&show_icons=true&rank_icon=github&hide=contribs" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackradian&layout=donut" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jackradian&layout=donut" />
 </a>
 
 <!--
