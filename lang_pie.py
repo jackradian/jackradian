@@ -20,6 +20,7 @@ OUTPUT = "languages.svg"
 TOP_N = None                   # None = show every language; a number = top N + "Other"
 ROWS_PER_COLUMN = 8            # legend wraps into a new column after this many rows
 IGNORED = set()                # e.g. {"HTML", "CSS", "Jupyter Notebook"}
+SKIPPED_REPOS = {"dqhouse"} # set()          # repo names to leave out, e.g. {"dotfiles", "old-homework"}
 INCLUDE_PRIVATE = True         # count private repos
 INCLUDE_ARCHIVED = True        # count archived repos (github-readme-stats counts them)
 DEBUG = os.environ.get("DEBUG") == "1"   # print a per-repo report
@@ -61,7 +62,9 @@ def collect_languages():
             break
         for repo in repos:
             reason = None
-            if repo["fork"]:
+            if repo["name"].lower() in {n.lower() for n in SKIPPED_REPOS}:
+                reason = "skipped"
+            elif repo["fork"]:
                 reason = "fork"
             elif repo["archived"] and not INCLUDE_ARCHIVED:
                 reason = "archived"
