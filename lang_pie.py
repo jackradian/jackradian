@@ -41,8 +41,8 @@ def api(url):
 def collect_languages():
     totals, page = {}, 1
     while True:
-        repos = api(f"https://api.github.com/users/{USERNAME}/repos"
-                    f"?per_page=100&page={page}&type=owner")
+        repos = api(f"https://api.github.com/user/repos"
+            f"?per_page=100&page={page}&affiliation=owner&visibility=all")
         if not repos:
             break
         for repo in repos:
