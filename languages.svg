@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250">
+<style>text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#8b949e}</style>
+<text x="20" y="28" font-size="16" font-weight="600">Most Used Languages</text>
+<path d="M120,135 L120.00,45.00 A90,90 0 0 1 203.54,168.49 Z" fill="#4F5D95" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="59" width="12" height="12" rx="2" fill="#4F5D95"/>
+<text x="270" y="70" font-size="13">PHP 31.1%</text>
+<path d="M120,135 L203.54,168.49 A90,90 0 0 1 145.63,221.27 Z" fill="#3cb44b" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="83" width="12" height="12" rx="2" fill="#3cb44b"/>
+<text x="270" y="94" font-size="13">Blade 14.3%</text>
+<path d="M120,135 L145.63,221.27 A90,90 0 0 1 70.93,210.44 Z" fill="#f1e05a" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="107" width="12" height="12" rx="2" fill="#f1e05a"/>
+<text x="270" y="118" font-size="13">JavaScript 13.8%</text>
+<path d="M120,135 L70.93,210.44 A90,90 0 0 1 31.12,149.16 Z" fill="#178600" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="131" width="12" height="12" rx="2" fill="#178600"/>
+<text x="270" y="142" font-size="13">C# 13.3%</text>
+<path d="M120,135 L31.12,149.16 A90,90 0 0 1 40.89,92.09 Z" fill="#563d7c" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="155" width="12" height="12" rx="2" fill="#563d7c"/>
+<text x="270" y="166" font-size="13">CSS 10.4%</text>
+<path d="M120,135 L40.89,92.09 A90,90 0 0 1 66.69,62.49 Z" fill="#e34c26" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="179" width="12" height="12" rx="2" fill="#e34c26"/>
+<text x="270" y="190" font-size="13">HTML 7.0%</text>
+<path d="M120,135 L66.69,62.49 A90,90 0 0 1 120.00,45.00 Z" fill="#8b949e" stroke="#ffffff" stroke-width="1"/>
+<rect x="250" y="203" width="12" height="12" rx="2" fill="#8b949e"/>
+<text x="270" y="214" font-size="13">Other 10.1%</text>
+</svg>
