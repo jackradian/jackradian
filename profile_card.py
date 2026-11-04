@@ -18,10 +18,10 @@ import urllib.request
 TOKEN = os.environ.get("GITHUB_TOKEN")
 OUTPUT = "profile-card.svg"
 TITLE = None                   # None = "<your name>'s GitHub Stats"
-TOP_N = None                   # None = show every language; a number = top N + "Other"
+TOP_N = 9                      # None = show every language; a number = top N + "Other"
 ROWS_PER_COLUMN = 7            # legend wraps into a new column after this many rows
 IGNORED = set()                # languages to hide, e.g. {"HTML", "CSS"}
-SKIPPED_REPOS = set()          # repo names to leave out, e.g. {"dotfiles"}
+SKIPPED_REPOS = {"dqhouse"} #set()          # repo names to leave out, e.g. {"dotfiles"}
 INCLUDE_PRIVATE = True         # count private repos (languages) and private contributions
 INCLUDE_ARCHIVED = True        # count archived repos
 INCLUDE_FORKS = False          # count forked repos
