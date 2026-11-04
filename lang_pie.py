@@ -17,7 +17,7 @@ import urllib.request
 USERNAME = os.environ.get("GH_USERNAME") or (sys.argv[1] if len(sys.argv) > 1 else None)
 TOKEN = os.environ.get("GITHUB_TOKEN")
 OUTPUT = "languages.svg"
-TOP_N = None                   # None = show every language; a number = top N + "Other"
+TOP_N = 9                      # None = show every language; a number = top N + "Other"
 ROWS_PER_COLUMN = 8            # legend wraps into a new column after this many rows
 IGNORED = set()                # e.g. {"HTML", "CSS", "Jupyter Notebook"}
 SKIPPED_REPOS = {"dqhouse"} # set()          # repo names to leave out, e.g. {"dotfiles", "old-homework"}
