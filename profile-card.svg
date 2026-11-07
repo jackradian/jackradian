@@ -13,7 +13,7 @@
 <text class="title" x="25" y="38" font-size="19" font-weight="600">jackradian’s GitHub Stats</text>
 <g class="icon" transform="translate(37,90)"><line x1="-9" y1="0" x2="-4" y2="0"/><circle r="4"/><line x1="4" y1="0" x2="9" y2="0"/></g>
 <text class="text" x="58" y="95" font-size="14">Total Commits</text>
-<text class="value" x="265" y="95" font-size="15" font-weight="700" text-anchor="end">683</text>
+<text class="value" x="265" y="95" font-size="15" font-weight="700" text-anchor="end">693</text>
 <g class="icon" transform="translate(37,135)"><circle cx="-4" cy="-6" r="2.3"/><circle cx="-4" cy="6" r="2.3"/><line x1="-4" y1="-3.7" x2="-4" y2="3.7"/><circle cx="5" cy="6" r="2.3"/><path d="M5 3.7 V-3 Q5 -6 2 -6 H0.5"/><path d="M2.5 -8 L0.5 -6 L2.5 -4"/></g>
 <text class="text" x="58" y="140" font-size="14">Total PRs</text>
 <text class="value" x="265" y="140" font-size="15" font-weight="700" text-anchor="end">4</text>
@@ -22,34 +22,34 @@
 <text class="value" x="265" y="185" font-size="15" font-weight="700" text-anchor="end">2</text>
 <line class="divider" x1="290" y1="60" x2="290" y2="229"/>
 <text class="text" x="310" y="68" font-size="13" font-weight="600">Most Used Languages</text>
-<path class="slice" stroke-width="0.6" fill="#178600" d="M370,166.5 L370.00,104.50 A62,62 0 1 1 352.80,226.07 Z"/>
+<path class="slice" stroke-width="0.6" fill="#178600" d="M370,166.5 L370.00,104.50 A62,62 0 1 1 360.12,227.71 Z"/>
 <rect x="455" y="85" width="11" height="11" rx="2" fill="#178600"/>
-<text class="text" x="473" y="95" font-size="13">C# 54.5%</text>
-<path class="slice" stroke-width="0.6" fill="#3178c6" d="M370,166.5 L352.80,226.07 A62,62 0 0 1 310.64,184.41 Z"/>
+<text class="text" x="473" y="95" font-size="13">C# 52.5%</text>
+<path class="slice" stroke-width="0.6" fill="#3178c6" d="M370,166.5 L360.12,227.71 A62,62 0 0 1 310.21,182.91 Z"/>
 <rect x="455" y="107" width="11" height="11" rx="2" fill="#3178c6"/>
-<text class="text" x="473" y="117" font-size="13">TypeScript 15.9%</text>
-<path class="slice" stroke-width="0.6" fill="#d64175" d="M370,166.5 L310.64,184.41 A62,62 0 0 1 311.21,146.81 Z"/>
+<text class="text" x="473" y="117" font-size="13">TypeScript 18.2%</text>
+<path class="slice" stroke-width="0.6" fill="#d64175" d="M370,166.5 L310.21,182.91 A62,62 0 0 1 311.28,146.61 Z"/>
 <rect x="455" y="129" width="11" height="11" rx="2" fill="#d64175"/>
-<text class="text" x="473" y="139" font-size="13">ShaderLab 9.8%</text>
-<path class="slice" stroke-width="0.6" fill="#701516" d="M370,166.5 L311.21,146.81 A62,62 0 0 1 321.92,127.36 Z"/>
+<text class="text" x="473" y="139" font-size="13">ShaderLab 9.5%</text>
+<path class="slice" stroke-width="0.6" fill="#701516" d="M370,166.5 L311.28,146.61 A62,62 0 0 1 321.55,127.81 Z"/>
 <rect x="455" y="151" width="11" height="11" rx="2" fill="#701516"/>
-<text class="text" x="473" y="161" font-size="13">Ruby 5.7%</text>
-<path class="slice" stroke-width="0.6" fill="#f1e05a" d="M370,166.5 L321.92,127.36 A62,62 0 0 1 337.38,113.78 Z"/>
+<text class="text" x="473" y="161" font-size="13">Ruby 5.5%</text>
+<path class="slice" stroke-width="0.6" fill="#f1e05a" d="M370,166.5 L321.55,127.81 A62,62 0 0 1 336.47,114.35 Z"/>
 <rect x="455" y="173" width="11" height="11" rx="2" fill="#f1e05a"/>
-<text class="text" x="473" y="183" font-size="13">JavaScript 5.3%</text>
-<path class="slice" stroke-width="0.6" fill="#ff3e00" d="M370,166.5 L337.38,113.78 A62,62 0 0 1 345.35,109.61 Z"/>
+<text class="text" x="473" y="183" font-size="13">JavaScript 5.2%</text>
+<path class="slice" stroke-width="0.6" fill="#ff3e00" d="M370,166.5 L336.47,114.35 A62,62 0 0 1 346.11,109.29 Z"/>
 <rect x="455" y="195" width="11" height="11" rx="2" fill="#ff3e00"/>
-<text class="text" x="473" y="205" font-size="13">Svelte 2.3%</text>
-<path class="slice" stroke-width="0.6" fill="#dea584" d="M370,166.5 L345.35,109.61 A62,62 0 0 1 353.28,106.80 Z"/>
+<text class="text" x="473" y="205" font-size="13">Svelte 2.8%</text>
+<path class="slice" stroke-width="0.6" fill="#dea584" d="M370,166.5 L346.11,109.29 A62,62 0 0 1 353.80,106.65 Z"/>
 <rect x="455" y="217" width="11" height="11" rx="2" fill="#dea584"/>
-<text class="text" x="473" y="227" font-size="13">Rust 2.2%</text>
-<path class="slice" stroke-width="0.6" fill="#cfd641" d="M370,166.5 L353.28,106.80 A62,62 0 0 1 358.87,105.51 Z"/>
+<text class="text" x="473" y="227" font-size="13">Rust 2.1%</text>
+<path class="slice" stroke-width="0.6" fill="#cfd641" d="M370,166.5 L353.80,106.65 A62,62 0 0 1 359.20,105.45 Z"/>
 <rect x="620" y="85" width="11" height="11" rx="2" fill="#cfd641"/>
-<text class="text" x="638" y="95" font-size="13">HLSL 1.5%</text>
-<path class="slice" stroke-width="0.6" fill="#563d7c" d="M370,166.5 L358.87,105.51 A62,62 0 0 1 363.60,104.83 Z"/>
+<text class="text" x="638" y="95" font-size="13">HLSL 1.4%</text>
+<path class="slice" stroke-width="0.6" fill="#563d7c" d="M370,166.5 L359.20,105.45 A62,62 0 0 1 363.78,104.81 Z"/>
 <rect x="620" y="107" width="11" height="11" rx="2" fill="#563d7c"/>
 <text class="text" x="638" y="117" font-size="13">CSS 1.2%</text>
-<path class="slice" stroke-width="0.6" fill="#8b949e" d="M370,166.5 L363.60,104.83 A62,62 0 0 1 370.00,104.50 Z"/>
+<path class="slice" stroke-width="0.6" fill="#8b949e" d="M370,166.5 L363.78,104.81 A62,62 0 0 1 370.00,104.50 Z"/>
 <rect x="620" y="129" width="11" height="11" rx="2" fill="#8b949e"/>
 <text class="text" x="638" y="139" font-size="13">Other 1.6%</text>
 </svg>
